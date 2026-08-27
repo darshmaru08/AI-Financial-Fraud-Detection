@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.vscode/
+
+*.log
+
+.env
+.env.*
+
+*.tmp
+
+# Generated/demo files
+fraud_analysis_results.csv
+
+# Large raw dataset
+creditcard.csv
+
+# Python virtual environments
+venv/
+.venv/
+env/
